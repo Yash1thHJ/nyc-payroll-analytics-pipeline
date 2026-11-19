@@ -1,7 +1,7 @@
 [project]
 name = "payroll-pipeline"
 version = "0.1.0"
-description = "Add your description here"
+description = "Automated analytics pipeline for NYC Citywide Payroll data: ingestion, validation, dbt transformations, testing, and AI-assisted reporting"
 readme = "README.md"
 authors = [
     { name = "Yashwanth H J", email = "yashwanthhj21@gmail.com" }
