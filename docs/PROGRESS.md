@@ -15,6 +15,12 @@
 - **Blockers / questions:** —
 - **New concepts learned:** —
 
+### 2026-11-19 (session 2)
+- **Done:** Set up repo, uv environment, folder structure, rules files. First PR reviewed and merged.
+- **Next:** Part B: app token, explore data with SoQL, write docs/data_profile.md.
+- **Blockers / questions:** —
+- **New concepts learned:** PATH, uv, virtual environment, pyproject.toml, uv.lock, src layout, .gitignore/.gitkeep, Markdown, PR review, local vs remote.
+
 <!-- Copy this block for each new session:
 ### YYYY-MM-DD
 - **Done:**
