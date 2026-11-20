@@ -224,3 +224,6 @@ __marimo__/
 
 # Project data (never commit)
 data/
+
+# Personal experiments (never commit)
+scratch/
