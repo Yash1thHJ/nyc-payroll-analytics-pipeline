@@ -147,7 +147,7 @@ These change only through the Decision Log (section 12).
 
 | Day | Deliverable | Status |
 |---|---|---|
-| 1 | Repo, environment and folder structure; first manual look at the data; `docs/data_profile.md` | ☐ |
+| 1 | Repo, environment and folder structure; first manual look at the data; `docs/data_profile.md` | ✅ |
 | 2 | `ingest.py`: API → raw Parquet by fiscal year, with pagination, logging, retries; idempotent | ☐ |
 | 3 | pandera raw validation; load raw into DuckDB | ☐ |
 | 4 | dbt setup + staging models (types, cleaning, personal-data masking) | ☐ |
